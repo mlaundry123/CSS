@@ -1,5 +1,8 @@
 div {
-background-color: green;
-color: black;
+  color: green;
+  background-color: red;
 }
 
+p {
+  color: red;
+}
